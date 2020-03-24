@@ -1,3 +1,5 @@
 /.idea/
 /gmall-api/gmall-api.iml
 /gmall-parent.iml
+/gmall-mbg/
+/gmall-api/target/classes/com/atguigu/gmall/
